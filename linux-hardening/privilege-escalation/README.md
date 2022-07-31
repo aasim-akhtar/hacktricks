@@ -20,7 +20,7 @@ Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
 
 ### OS info
 
-Let's starting gaining some knowledge of the OS running
+Let's start gaining some knowledge of the OS running
 
 ```bash
 (cat /proc/version || uname -a ) 2>/dev/null
